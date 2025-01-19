@@ -1,0 +1,5 @@
+outs:
+- md5: 358b99fe35691a58ad16a1cd6d58cfe5
+  size: 4730880
+  hash: md5
+  path: forex_data.duckdb
